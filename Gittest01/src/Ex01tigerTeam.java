@@ -7,7 +7,7 @@ public class Ex01tigerTeam {
 		System.out.println("팀장 세번째 커밋");
 		System.out.println("팀원2 네번째 커밋");
 		System.out.println("임지훈,,,,,,멋있다 !!");
-		System.out.println("아야어여오요우유으이");
+		System.out.println("사랑이 넘 귀여오오옹");
 		
 		
 		
