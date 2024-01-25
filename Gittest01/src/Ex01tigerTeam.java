@@ -9,6 +9,7 @@ public class Ex01tigerTeam {
 		System.out.println("임지훈,,,,,,멋있다 !!");
 		System.out.println("사랑이 넘 귀여오오옹");
 		System.out.println("알밤이는 삵인가요");
+		System.out.println("무늬와 모양으로 보아 삵으로 판단되어집니다.");
 
 		System.out.println("블롭피쉬");
 		
