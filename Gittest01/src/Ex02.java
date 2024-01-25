@@ -11,14 +11,21 @@ public class Ex02 {
 					System.out.println("이제 임지훈 님은 더이상 쾌남이 아닙니다.");
 				}
 			}
-			
-			
+			loop = true;
+			while(loop) {
+				for(int i=1;i<=7;i++) {
+					System.out.println("변지석호감도 -100 입니다");
+					if(i==7) {
+						loop = false;
+						System.out.println("변지석호감도 -100 입니다");
+					}
+				}
 			
 			
 			
 		}
-		// TODO Auto-generated method stub
-
+	
+		}
 	}
 
 }
