@@ -12,6 +12,11 @@ public class Ex01tigerTeam {
 		System.out.println("무늬와 모양으로 보아 삵으로 판단되어집니다.");
 		System.out.println("블롭피쉬ㅌ");
 		
+		
+		
+		
+		
+		
 	}
 
 }
