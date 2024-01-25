@@ -10,7 +10,7 @@ public class Ex01tigerTeam {
 		System.out.println("사랑이 넘 귀여오오옹");
 		System.out.println("알밤이는 삵인가요");
 
-		
+		System.out.println("블롭피쉬");
 		
 	}
 
