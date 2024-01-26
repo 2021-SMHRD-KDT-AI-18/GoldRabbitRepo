@@ -1,8 +1,11 @@
 package controller;
 
-public class character_Controller {
+import model.MemberDAO;
+import model.MemberDTO;
 
+
+public class character_Controller {
 	
 	
-	public void music
-}
+	}
+	
