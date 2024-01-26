@@ -53,6 +53,7 @@ public class Ex01tigerTeam {
 		System.out.print("2.딸기쿠키\n"
 				+ " 5대 마법사 가문의 혈통을 이어받아 아직은 소심하지만 대마법사의 잠재력을 지니고 있는 마법사 쿠키\n");
 		
+		System.out.print("캐릭터 번호 :");
 		int Character =sc.nextInt();
 		
 		if(Character ==1) {
