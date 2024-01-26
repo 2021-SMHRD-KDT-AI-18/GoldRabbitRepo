@@ -38,7 +38,7 @@ public class Ex01tigerTeam {
 				e.printStackTrace();
 			} if(i%45==0) {
 				System.out.println();
-				
+				 
 			}
 			
 		}
