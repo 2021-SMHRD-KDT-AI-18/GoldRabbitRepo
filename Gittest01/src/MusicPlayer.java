@@ -19,30 +19,11 @@ public class MusicPlayer {
       
       Music m2 = new Music("하이", "NO ONE", 180, "C:\\music_v2\\하이 - 하이.mp3");
       Music m1 = new Music("타자", " bad guy", 180, "C:\\music_v2\\타자 - 타자.mp3");
-      Music m3 = new Music("Carmen Twillie, Lebo M.", " Circle of Life", 180, "C:\\music_v2\\Carmen Twillie, Lebo M. - Circle of Life.mp3");
-      Music m4 = new Music("CHUNG HA", " 벌써 12시", 180, "C:\\music_v2\\CHUNG HA - 벌써 12시.mp3");
-      Music m5 = new Music("Idina Menzel", "Let It Go", 180, "C:\\music_v2\\Idina Menzel - Let It Go.mp3");
-      Music m6 = new Music("Itzy", "Dalla Dalla", 180, "C:\\music_v2\\Itzy - Dalla Dalla.mp3");
-      Music m7 = new Music("JENNIE", "SOLO", 180, "C:\\music_v2\\JENNIE - SOLO.mp3");
-      Music m8 = new Music("Mena Massoud, Naomi Scott", "A Whole New World", 180, "C:\\music_v2\\Mena Massoud, Naomi Scott - A Whole New World.mp3");
-      Music m9 = new Music("Rain", "깡", 180, "C:\\music_v2\\Rain - 깡.mp3");
-      Music m10 = new Music("SHINee", "Ring Ding Dong", 180, "C:\\music_v2\\SHINee - Ring Ding Dong.mp3");
-      Music m11 = new Music("TWICE", "FANCY", 180, "C:\\music_v2\\TWICE - FANCY.mp3");
-      Music m12 = new Music("이하이", "NO ONE", 180, "C:\\music_v2\\이하이 - NO ONE.mp3");
      
 
       list.add(m1);
       list.add(m2);
-      list.add(m3);
-      list.add(m4);
-      list.add(m5);
-      list.add(m6);
-      list.add(m7);
-      list.add(m8);
-      list.add(m9);
-      list.add(m10);
-      list.add(m11);
-      list.add(m12);
+     
       
       
       Scanner sc = new Scanner(System.in);

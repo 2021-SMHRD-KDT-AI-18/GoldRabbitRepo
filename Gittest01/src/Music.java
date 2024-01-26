@@ -20,7 +20,9 @@ public class Music {
 			this.time = time;
 			this.path=path;
 		}
-		
+		public void play() {
+			mp3.play;
+		}
 		
 
 		public void setPath(String path) {
