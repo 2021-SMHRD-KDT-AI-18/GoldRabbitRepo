@@ -1,8 +1,8 @@
-
+import java.util.Scanner;
 public class Ex01tigerTeam {
 
 	public static void main(String[] args) {
-		
+		Scanner sc =new Scanner(System.in);
 		
 		System.out.println(" ------------.  ,------- :!!:  -------- :!!-    .-------     ,------- ~!!~  ---.          \r\n"
 				+ "           $@@@@@@@@@@@~  =@@@@@@# *@@= .$@@@@@@@ *@@:   #@@@@@@@@@!   *@@@@@@@ !@@; ,#@@:          \r\n"
@@ -42,7 +42,28 @@ public class Ex01tigerTeam {
 			}
 			
 		}
+		// 캐릭터 선택
+		System.out.print("1.용맹쿠키\n"
+				+ " 용맹함으로 장차 두려움없이 적진에 진입하여 쿠키마을을 지켜내는 전사 \n");
+				
+		System.out.print("2.딸기쿠키\n"
+				+ " 5대 마법사 가문의 혈통을 이어받아 아직은 소심하지만 대마법사의 잠재력을 지니고 있는 쿠키\n");
+		
+		int Character =sc.nextInt();
+		
+		if(Character ==1) {
+			
+		}else if(Character==2) {
+			
+		}else {
+		 System.out.println("쿠키가 없습니다.");
+		}
+		
+		
+		
+		
+
+		
 	} 
 	
 }
-
