@@ -32,7 +32,7 @@ public class Ex01tigerTeam {
 			System.out.print(text.charAt(i));
 			
 			try {
-				Thread.sleep(50);
+				Thread.sleep(20);
 			} catch (InterruptedException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
@@ -42,12 +42,16 @@ public class Ex01tigerTeam {
 			}
 			
 		}
+		
+		
+		
 		// 캐릭터 선택
 		System.out.print("1.용맹쿠키\n"
-				+ " 용맹함으로 장차 두려움없이 적진에 진입하여 쿠키마을을 지켜내는 전사 \n");
+				+ " 용맹함으로 장차 두려움없이 적진에 진입하여 쿠키마을을 지켜내는 전사쿠키 \n");
 				
+		
 		System.out.print("2.딸기쿠키\n"
-				+ " 5대 마법사 가문의 혈통을 이어받아 아직은 소심하지만 대마법사의 잠재력을 지니고 있는 쿠키\n");
+				+ " 5대 마법사 가문의 혈통을 이어받아 아직은 소심하지만 대마법사의 잠재력을 지니고 있는 마법사 쿠키\n");
 		
 		int Character =sc.nextInt();
 		
